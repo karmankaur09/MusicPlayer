@@ -13,4 +13,4 @@ These features are implemented with the help of :-
 3. Viewpager
 4. SQLite Database
 5. Adapters.
-# MusicPlayer
+
