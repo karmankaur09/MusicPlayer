@@ -14,3 +14,4 @@ These features are implemented with the help of :-
 4. SQLite Database
 5. Adapters.
 
+This was a college project made with team @harjotse
